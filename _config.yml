@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Yassine Elhallaoui </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/yassine-elhallaoui-00707890/">LinkedIn</a> |
+  <a href="https://github.com/yassineelhallaoui">GitHub</a>
+  
+  <br>   
+  I'm a Technology Champion in an Oil&Gas Company,
+  my role is to automate the field processes/tasks using technologies as solutions
+  including robotics, Machine Deep Learning, Software Development methods.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
